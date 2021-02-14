@@ -25,7 +25,7 @@ body {
   background-repeat: no-repeat;
   height: 80vh;
   border-radius: 50px;
-  color: white;
+  color: black;
   cursor: pointer;
   flex: 0.5;
   margin: 10px;
@@ -48,6 +48,7 @@ body {
 
 .panel.active h3 {
   opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 /* MEDIA QUERIES */
