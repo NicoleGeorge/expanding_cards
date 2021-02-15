@@ -1,2 +1,4 @@
 # expanding_cards
-expanding card images on a website - reference tool.
+expanding card widget - code snippet
+
+Live Link: [Click Here]()
