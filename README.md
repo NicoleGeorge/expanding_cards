@@ -1,7 +1,7 @@
 # expanding_cards
 expanding card widget - code snippet
 
-Live Link: [Click Here]()
+Live Link: [Click Here](https://nicolegeorge.github.io/expanding_cards/)
 
 Slider 1: </br>
 <a href="#" rel="nofollow"><img height="550" src="https://github.com/NicoleGeorge/expanding_cards/blob/main/assets/slide_1.png" style="max-width:100%;" target="_blank"></a>
